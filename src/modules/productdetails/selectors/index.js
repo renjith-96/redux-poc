@@ -1,0 +1,1 @@
+export const getProductDetailSelector = (state) => state?.productDetail;
